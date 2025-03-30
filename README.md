@@ -5,3 +5,5 @@ Changes the level pages to jump to a modified online level page that allows you 
 
 
 # Ported to 2.2074 by OMEGAlinc
+
+Capeling, if you want me to take this down, let me know
